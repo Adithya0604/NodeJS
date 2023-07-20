@@ -34,3 +34,4 @@ console.log([valueInNumber ,  valueInNumber1 , valueInNumber2 ,valueInNumber3  ,
 //null is the value shown has 0 and shown has object .
 // if the number is any integer even it is positive or negitive or 1 then it will show has true but if the value is 0 it then we will show it has false.
 // u can give any value to see what is the result. 
+// operations should be read from ECMAscript or  mdn 
